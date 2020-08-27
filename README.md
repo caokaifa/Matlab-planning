@@ -9,3 +9,4 @@ Learn from paper WerlingOptimalTrajectoryGenerationforDynamicStreetScenariosinaF
 运行主函数main_path_planning.m即可，具体内容可见博客：https://blog.csdn.net/caokaifa/article/details/108015374
 
 2.机器人局部避障的动态窗口法（DynamicWindowApproach）是对论文Mobile robot motion planning sample with Dynamic Window Approach的实现，运行DW_Main.m即可。
+3.RS曲线的生成
